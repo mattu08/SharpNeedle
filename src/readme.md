@@ -2,7 +2,7 @@
 
 ### Launcher.exe (native)
 
-This injects Bootstrapper.dll into the specified process, then invokes one if its functions.
+This injects Bootstrapper.dll into the specified process, then invokes one of it's functions.
 
 ### Bootstrapper.dll (native)
 
